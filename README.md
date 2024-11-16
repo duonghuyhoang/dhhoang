@@ -10,7 +10,7 @@ Web Developer
 * 🖥️  See my portfolio at [My website](https://kingz.io.vn/)
 * ✉️  You can contact me at [duonghuyhoang2003@gmail.com](mailto:duonghuyhoang2003@gmail.com)
 * 🚀  I'm currently working on [KingZ](http://github.com/duonghuyhoang)
-* 🧠  I'm learning NextJs, NestJs
+* 🧠  I'm becoming a full stack developer
 * 🤝  I'm open to collaborating on Other web application development projects!
 * ⚡  I'm Captain KingZ
 
