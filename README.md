@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-More than 6 months of interface development and programming with JavaScript, React JS and Typescript.
+2+ years of interface development and programming with JavaScript, React JS and Typescript.
 
 * 🌍  I'm based in Ha Noi
-* 🖥️  See my portfolio at [My website](http://kingzzz.vercel.app)
+* 🖥️  See my portfolio at [My website](https://kingz.io.vn/)
 * ✉️  You can contact me at [duonghuyhoang2003@gmail.com](mailto:duonghuyhoang2003@gmail.com)
 * 🚀  I'm currently working on [KingZ](http://github.com/duonghuyhoang)
 * 🧠  I'm learning NextJs, NestJs
